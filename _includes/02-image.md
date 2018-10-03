@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Q3 logo](http://icons.iconarchive.com/icons/th3-prophetman/game/256/Quake-III-Arena-icon.png)
